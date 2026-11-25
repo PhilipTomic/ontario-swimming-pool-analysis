@@ -8,7 +8,8 @@ The objective is to explore how demographic and socioeconomic factors relate to 
 
 ## Dashboard
 
-<img width="190" height="217" alt="image" src="https://github.com/user-attachments/assets/ac2233b4-3269-4faf-a75f-bc0d4ec87b58" />
+<img width="1264" height="710" alt="Screenshot 2026-11-25 at 2 12 23 PM" src="https://github.com/user-attachments/assets/f5c017d6-62eb-465b-a783-15617f261e13" />
+
 
 
 ## Research Objectives
