@@ -8,7 +8,8 @@ The objective is to explore how demographic and socioeconomic factors relate to 
 
 ## Dashboard
 
-![Ontario Swimming Pool Facilities Dashboard](dashboard.png)
+<img width="190" height="217" alt="image" src="https://github.com/user-attachments/assets/ac2233b4-3269-4faf-a75f-bc0d4ec87b58" />
+
 
 ## Research Objectives
 
